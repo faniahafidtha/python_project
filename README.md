@@ -26,8 +26,8 @@ This application calculates the final price after applying a discount percentage
 
 python_discount_calculator/
 │
+├── README.md
 ├── main.py
-└── README.md
 
 ---
 
